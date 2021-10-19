@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Frågesporten/1.0.0": {
+        "runtime": {
+          "Frågesporten.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Frågesporten/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

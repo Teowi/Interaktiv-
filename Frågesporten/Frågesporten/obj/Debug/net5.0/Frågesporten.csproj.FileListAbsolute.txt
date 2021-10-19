@@ -1,0 +1,16 @@
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\bin\Debug\net5.0\Frågesporten.exe
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\bin\Debug\net5.0\Frågesporten.deps.json
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\bin\Debug\net5.0\Frågesporten.runtimeconfig.json
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\bin\Debug\net5.0\Frågesporten.runtimeconfig.dev.json
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\bin\Debug\net5.0\Frågesporten.dll
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\bin\Debug\net5.0\ref\Frågesporten.dll
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\bin\Debug\net5.0\Frågesporten.pdb
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\obj\Debug\net5.0\Frågesporten.csproj.AssemblyReference.cache
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\obj\Debug\net5.0\Frågesporten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\obj\Debug\net5.0\Frågesporten.AssemblyInfoInputs.cache
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\obj\Debug\net5.0\Frågesporten.AssemblyInfo.cs
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\obj\Debug\net5.0\Frågesporten.csproj.CoreCompileInputs.cache
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\obj\Debug\net5.0\Frågesporten.dll
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\obj\Debug\net5.0\ref\Frågesporten.dll
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\obj\Debug\net5.0\Frågesporten.pdb
+C:\Users\wiederkehr.teo\Documents\Roinuj-Znofla\Frågesport\Frågesporten\Frågesporten\obj\Debug\net5.0\Frågesporten.genruntimeconfig.cache

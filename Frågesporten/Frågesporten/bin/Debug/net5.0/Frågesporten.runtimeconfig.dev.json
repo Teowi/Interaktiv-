@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wiederkehr.teo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wiederkehr.teo\\.nuget\\packages"
+    ]
+  }
+}
